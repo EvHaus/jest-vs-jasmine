@@ -1,5 +1,7 @@
 # jest-vs-jasmine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EvHaus/jest-vs-jasmine.svg)](https://greenkeeper.io/)
+
 This repo is setup to test the performance of running tests via the Jest runner vs running the same tests via Jasmine + JSDom.
 
 # Setup
