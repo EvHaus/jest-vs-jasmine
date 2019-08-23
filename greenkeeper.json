@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "jasmine/package.json",
+        "jest-dot/package.json",
+        "jest/package.json"
+      ]
+    }
+  }
+}
